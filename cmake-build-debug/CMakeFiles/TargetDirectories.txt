@@ -1,0 +1,3 @@
+C:/Users/jenso/CLionProjects/Game_X/cmake-build-debug/CMakeFiles/glfwTest.dir
+C:/Users/jenso/CLionProjects/Game_X/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jenso/CLionProjects/Game_X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
